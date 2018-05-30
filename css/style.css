@@ -264,6 +264,31 @@ iframe {
 		text-decoration: underline;
 	}
 
+/*COLUMNS*/
+
+.col-1 {
+	width: 32%;
+	float: left;
+	margin-left: 2%;
+
+}
+
+.col-2 {
+	width: 66%;
+	float: left;
+	margin-left: 2%;
+	min-height: 100%;
+}
+
+.first {
+	margin-left: 0px;
+}
+
+.row {
+	display: inline-block;
+	margin-bottom: 2%;
+}
+
 /********** Details **********/
 
 #details {
